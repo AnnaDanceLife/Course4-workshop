@@ -1,1 +1,3 @@
-# Course4-workshop
+# Магазин мебели 
+
+Адаптивная верстка через flex, grid и media query.
